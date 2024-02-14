@@ -1,1 +1,1 @@
-# ftp.scala-sbt.org
+# www.minardi.org
